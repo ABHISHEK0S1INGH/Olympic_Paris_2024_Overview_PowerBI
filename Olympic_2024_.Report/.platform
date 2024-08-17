@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Olympic_2024_"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ef6a6455-7685-4a00-b905-b2d9715b2d76"
+  }
+}

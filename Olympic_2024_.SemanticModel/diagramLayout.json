@@ -1,0 +1,165 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 750.71776825033044,
+            "y": 301.75161570929481
+          },
+          "nodeIndex": "athletes",
+          "nodeLineageTag": "340c7887-3123-42aa-b216-484e60c27884",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 476.71776825033055,
+            "y": 593.50323141858951
+          },
+          "nodeIndex": "coaches",
+          "nodeLineageTag": "b14d6eaf-a97c-4d5b-8ba5-65600545df53",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1034.7177682503304,
+            "y": 351.75161570929481
+          },
+          "nodeIndex": "events",
+          "nodeLineageTag": "0056bea3-08d9-4d4e-a6ae-78810de4eab8",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1318.7177682503304,
+            "y": 301.75161570929481
+          },
+          "nodeIndex": "medallists",
+          "nodeLineageTag": "acde0cad-ad68-4101-b8a8-6537db2e3468",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": 467.37274060049123
+          },
+          "nodeIndex": "medals",
+          "nodeLineageTag": "ec48d38c-692b-4b6f-94ed-15b87bf1e9f8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 297.01992665797457,
+            "y": 341.76456387670481
+          },
+          "nodeIndex": "medals_total",
+          "nodeLineageTag": "a5017c15-0488-43b6-b414-5acec204addf",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1602.7177682503304,
+            "y": 301.75161570929481
+          },
+          "nodeIndex": "schedules",
+          "nodeLineageTag": "251793d5-b46f-46ac-957f-a07d9f964b75",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 96.177785861104326,
+            "y": -10
+          },
+          "nodeIndex": "teams",
+          "nodeLineageTag": "5c349ffb-ff8f-4d69-90cd-7223004e044a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1886.7177682503304,
+            "y": 301.75161570929481
+          },
+          "nodeIndex": "schedules_preliminary",
+          "nodeLineageTag": "1340f436-11dd-411b-8db5-9ba165297961",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2170.7177682503307,
+            "y": 327.75161570929481
+          },
+          "nodeIndex": "torch_route",
+          "nodeLineageTag": "def72500-5a5d-4ecc-96e1-1e0bbe63d91d",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2454.7177682503307,
+            "y": 339.75161570929481
+          },
+          "nodeIndex": "venues",
+          "nodeLineageTag": "b491ed77-3600-4b24-9bf9-217fe96028af",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 50.233947733343285,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

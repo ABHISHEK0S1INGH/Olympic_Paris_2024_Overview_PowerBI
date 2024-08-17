@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Olympic_2024_.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
