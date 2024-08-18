@@ -21,6 +21,10 @@ The objective of the Paris Olympic Dashboard in Power BI is to provide a compreh
 
 ## Screenshots:
 
+![Page1](https://github.com/ABHISHEK0S1INGH/Olympic_Paris_2024_Overview_PowerBI/blob/9525f7ddf4c79ae78a67f4078c2e7e218967ba8c/Olympic_2024_.Report/StaticResources/RegisteredResources/Screenshot%202024-08-17%20123704.png)
+![Page1](https://github.com/ABHISHEK0S1INGH/Olympic_Paris_2024_Overview_PowerBI/blob/9525f7ddf4c79ae78a67f4078c2e7e218967ba8c/Olympic_2024_.Report/StaticResources/RegisteredResources/Screenshot%202024-08-17%20123718.png).
+![Page1](https://github.com/ABHISHEK0S1INGH/Olympic_Paris_2024_Overview_PowerBI/blob/9525f7ddf4c79ae78a67f4078c2e7e218967ba8c/Olympic_2024_.Report/StaticResources/RegisteredResources/Screenshot%202024-08-17%20123731.png).
+![Page1](https://github.com/ABHISHEK0S1INGH/Olympic_Paris_2024_Overview_PowerBI/blob/9525f7ddf4c79ae78a67f4078c2e7e218967ba8c/Olympic_2024_.Report/StaticResources/RegisteredResources/Screenshot%202024-08-17%20123838.png).
 
 ## Contributors:
 
