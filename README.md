@@ -5,7 +5,9 @@
 >Jupyter Notebook,<br/>
 >Git<br/>
 
-## Description:
+## SET-UP:
+Install the latest version of Power BI
+Open the .pbix file as usual. Projects may have local or online datasets.
 
 ## Objective: 
 The objective of the Paris Olympic Dashboard in Power BI is to provide a comprehensive and real-time overview of the 2024 Paris Olympics. This dashboard aims to:<br/>
