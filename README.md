@@ -1,5 +1,5 @@
 # Olympic_Paris_2024_Overview_PowerBI
-## Read the below documents to prepare your **Working enviroment**
+## Technology Needed
 >PowerBI Desktop,<br/>
 >Python 3.12,<br/>
 >Jupyter Notebook,<br/>
