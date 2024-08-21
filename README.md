@@ -30,6 +30,13 @@ The objective of the Paris Olympic Dashboard in Power BI is to provide a compreh
 
 ## Contributors:
 
+## Authors Info
+If you like what you see and are interested to know more about my work, pay my LinkedIn profile a visit or shoot me an email as provided below.
+
+LinkedIn - Abhishek Singh, Link www.linkedin.com/in/abhishek0s1ingh
+
+Email - abhi620548@gmail.com
+
 
 
 
