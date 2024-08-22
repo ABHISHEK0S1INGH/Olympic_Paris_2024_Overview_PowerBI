@@ -16,9 +16,15 @@ The objective of the Paris Olympic Dashboard in Power BI is to provide a compreh
 3. Enhance Engagement<br/>
 
 ## Features:
+> Search By Country<br/>
+> Get Medal Winning Country at One Dashboard
 
 
 ## Usage:
+>Track Record of All the Country At One Dashboard<br/>
+>Easy and Quick Visualization<br/>
+>Medals Winning Country Filter<br/>
+
 
 
 ## Screenshots:
